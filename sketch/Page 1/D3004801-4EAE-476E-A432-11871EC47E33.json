@@ -37,6 +37,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.3455357142857143
+    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
