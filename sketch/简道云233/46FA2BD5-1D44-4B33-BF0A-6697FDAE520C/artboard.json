@@ -1,8 +1,15 @@
 {
-  "_class": "page",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "EBFF81EC-D168-4417-9518-E464740F4143",
+  "do_objectID": "46FA2BD5-1D44-4B33-BF0A-6697FDAE520C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,45 +22,57 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 250,
+    "width": 300,
+    "x": 140,
+    "y": -225
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -477,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "8E483ACC-0EC5-486F-903F-9EFE8FE83119"
+      "class": "text",
+      "id": "304DCCE7-A934-4C92-A983-D4960A6F61E3"
     },
     {
-      "class": "artboard",
-      "id": "46FA2BD5-1D44-4B33-BF0A-6697FDAE520C"
+      "class": "rectangle",
+      "id": "38F5536A-A915-4C37-A6FA-36C1BFD94691"
+    },
+    {
+      "class": "rectangle",
+      "id": "E28470CB-F78A-4235-B0B7-1B6EEFE9F56E"
+    },
+    {
+      "class": "rectangle",
+      "id": "19F9D676-DC5D-4F9B-8A4F-DCEF1207080D"
     }
   ],
-  "name": "简道云233",
+  "name": "t",
   "nameIsFixed": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -63,7 +82,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -370,
+    "base": 0,
     "guides": [
     ]
   }
